@@ -1,0 +1,13 @@
+
+      @import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
+      .p1 {
+        font-weight: 900;
+        font-size: 12px;
+        font-family: "Barlow", sans-serif;
+        text-transform: uppercase;
+      }
+      select {
+        width: 171px;
+        height: 28px;
+      }
+  
